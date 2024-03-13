@@ -7111,15 +7111,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"debug@npm:^3.2.6":
-  version: 3.2.6
-  resolution: "debug@npm:3.2.6"
-  dependencies:
-    ms: "npm:^2.1.1"
-  checksum: 10/c495d32519ed205aeab71b4bba84701c60b2d18efe98d41f88f498f09423252155450846ee31da0e4c3ea5d7d8f5123525e463612a7d3fa0bcd5fc06e4efe5fc
-  languageName: node
-  linkType: hard
-
 "debug@npm:^3.2.7":
   version: 3.2.7
   resolution: "debug@npm:3.2.7"
@@ -8723,22 +8714,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"follow-redirects@npm:^1.0.0":
-  version: 1.7.0
-  resolution: "follow-redirects@npm:1.7.0"
-  dependencies:
-    debug: "npm:^3.2.6"
-  checksum: 10/023b5b7c97bbe4ff396c4544d1c8d14870ce141d25c3a7bbfeedc30018385c0a5659cbe1362cb69a2969df75e2717a87fd79a93e5f7ad2ca6aa8a1e9e55cd460
-  languageName: node
-  linkType: hard
-
-"follow-redirects@npm:^1.15.4":
-  version: 1.15.4
-  resolution: "follow-redirects@npm:1.15.4"
+"follow-redirects@npm:^1.0.0, follow-redirects@npm:^1.15.4":
+  version: 1.15.5
+  resolution: "follow-redirects@npm:1.15.5"
   peerDependenciesMeta:
     debug:
       optional: true
-  checksum: 10/2e8f5f259a6b02dfa8dc199e08431848a7c3beed32eb4c19945966164a52c89f07b86c3afcc32ebe4279cf0a960520e45a63013d6350309c5ec90133c5d9351a
+  checksum: 10/d467f13c1c6aa734599b8b369cd7a625b20081af358f6204ff515f6f4116eb440de9c4e0c49f10798eeb0df26c95dd05d5e0d9ddc5786ab1a8a8abefe92929b4
   languageName: node
   linkType: hard
 
